@@ -25,5 +25,7 @@ float[] output = AudioWaveProvider.Instance.GetSpectrumData();
 AudioSourceまたはAudioClipの差し替えをした時は`SetAudioSource(audioSource)`を呼び出してください。
 
 ## License
+LICENSEを参照してください。
+
 Sampleに含まれる音声ファイルは[Yosshy氏](https://twitter.com/natadekokosuper)から許可を得て収録しています。
 Sampleをインポートした場合、サンプルに含まれる音声ファイルの2次配布を禁止します。
