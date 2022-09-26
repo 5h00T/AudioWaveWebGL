@@ -1,7 +1,15 @@
 {
-  "name": "com.sh00t.com.sh00t.audiowave_wabgl",
-  "version": "0.0.1",
+  "name": "com.sh00t.audiowave_webgl",
+  "version": "1.0.0",
   "displayName": "AudioWaveWebGL",
-  "description": "hogehuga",
-  "unity": "2020.3"
+  "description": "Alternative to AudioSource.GetOutput and AudioSource.GetSpectrum in WebGL build.",
+  "unity": "2019.3",
+  "samples": [
+    {
+      "displayName": "AudioWave ShaderGraphs[Require URP]",
+      "description": "Contains sample ShaderGraphs for the Universal render pipeline",
+      "path": "Samples~/Sample1"
+    }
+  ],
+  "type": "library"
 }
